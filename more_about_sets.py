@@ -1,6 +1,6 @@
 # we can use in keyword and for loop in sets
-set1={"satish","ramesh","kamlesh","raju","baburao"}
-if "kallu" in set1:
+set1={"Abhishek","aman","medhansh","navlesh","sonu"}
+if "sonu" in set1:
     print("present")
 for i in set1:
     print(i)
