@@ -3,5 +3,5 @@ def rev(s):
     return lis2
 
 
-list1=["kamlesh","satish","babu maan","kalua"]
+list1=["Abhishek","Aman","medhansh","navlesh"]
 print(rev(list1))
