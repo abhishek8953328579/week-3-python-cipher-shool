@@ -1,4 +1,4 @@
-let name = 'Harsha'
+let name = 'Abhishek'
 upper = name.toUpperCase()
 console.log(upper)
 
@@ -15,8 +15,8 @@ name = +name
 name = name +""
 // string concatenation
 
-let firstName = 'Harsha'
-let lastname = 'Sai'
+let firstName = 'Abhishek'
+let lastname = 'maurya'
 let fullName = firstName + lastname
 console.log(fullName)
 
