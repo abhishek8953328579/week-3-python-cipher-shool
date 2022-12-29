@@ -1,6 +1,6 @@
 # it will give a iterator
 user_id=[1254,2541,45214]
-user_name=["satsi141017","kamlesh","raju","kajuu"]
+user_name=["abhis141017","aman","sonu","medhansh"]
 temp=["ese","swdsd"]
 print(zip(user_id,user_name))
 print(list(zip(user_id,user_name)))
