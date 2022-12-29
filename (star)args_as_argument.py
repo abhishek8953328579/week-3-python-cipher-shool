@@ -1,7 +1,7 @@
 def multiply(*args):
     print(args)
 
-names=["satish","kamlesh","raju","roshan","himanshu thekedar"]
+names=["Abhishek","kamlesh","raju","roshan","Aman thekedar"]
 multiply(multiply(names))
 multiply(multiply(*names))
 # * will take every element of list as a argument in function
