@@ -1,7 +1,7 @@
 // console.log is used to print anything in JavaScript it is same as print() in python
 'use strict'
 console.log("hello world");
-console.log("harsha sai");
+console.log("Abhishek");
 var firstName = "elon";
 
 console.log(firstName)
@@ -25,7 +25,7 @@ console.log(firstName[firstName.length-1]) // can get the index of a string even
 // string methods
 // trim()
 // this method is used to remove the unnecessary spaces in a string.
-let name = '    Harsha    '
+let name = '    Abhishek    '
 console.log(name.length)
 let sameName = name.trim()
 console.log(sameName.length)
